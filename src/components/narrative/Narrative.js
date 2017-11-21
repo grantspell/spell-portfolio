@@ -48,6 +48,16 @@ class Narrative extends Component {
                         <p>
                             Hello, World! <br /><br />
                             My name is <span>Grant Spell</span>. <br /><br />
+                            My goal is to create polished and<br />
+                            responsive web applications <br/>
+                            through continuously improving my<br />
+                            skillset and staying up to date<br />
+                            on technologies, methods and <br />
+                            practices in the tech industry.<br /><br />
+                            I approach each project with<br/>
+                            in depth planning. Visually<br />
+                            mapping out the solution using<br />
+                            tools such as <span>Draw IO</span><br />
                             Thank you for visiting! <br />
                         </p>
                     </Text>
