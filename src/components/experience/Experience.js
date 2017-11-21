@@ -75,8 +75,8 @@ class Experience extends Component {
                         <p>This application is my fourth applicaiton.</p>
                     </ProjectDisplay>
                     <ProjectLinks>
-                        <a href="https://github.com/grantspell/project-four">GitHub</a>
-                        <a href="https://project-four.herokuapp.com/">LIVE</a>
+                        <a href="https://github.com/grantspell/project-four" target="_blank" >GitHub</a>
+                        <a href="https://project-four.herokuapp.com/" target="_blank" >LIVE</a>
                     </ProjectLinks>
                 </Project>
 
@@ -86,8 +86,8 @@ class Experience extends Component {
                         <p>This application is my third applicaiton.</p>
                     </ProjectDisplay>
                     <ProjectLinks>
-                        <a href="https://github.com/grantspell/project-iii">GitHub</a>
-                        <a href="https://project-iii.herokuapp.com/">LIVE</a>
+                        <a href="https://github.com/grantspell/project-iii" target="_blank" >GitHub</a>
+                        <a href="https://project-iii.herokuapp.com/" target="_blank" >LIVE</a>
                     </ProjectLinks>
                 </Project>
 
@@ -97,8 +97,8 @@ class Experience extends Component {
                         <p>This application is my second applicaiton.</p>
                     </ProjectDisplay>
                     <ProjectLinks>
-                        <a href="https://github.com/grantspell/project_two">GitHub</a>
-                        <a href="https://agile-caverns-43314.herokuapp.com/">LIVE</a>
+                        <a href="https://github.com/grantspell/project_two" target="_blank" >GitHub</a>
+                        <a href="https://agile-caverns-43314.herokuapp.com/" target="_blank" >LIVE</a>
                     </ProjectLinks>
                 </Project>
 
@@ -108,8 +108,8 @@ class Experience extends Component {
                         <p>This application is my first applicaiton.</p>
                     </ProjectDisplay>
                     <ProjectLinks>
-                        <a href="https://github.com/grantspell/project_one">GitHub</a>
-                        <a href="http://designer-beaver-25308.bitballoon.com/">LIVE</a>
+                        <a href="https://github.com/grantspell/project_one" target="_blank" >GitHub</a>
+                        <a href="http://designer-beaver-25308.bitballoon.com/" target="_blank" >LIVE</a>
                     </ProjectLinks>
                 </Project>
 
