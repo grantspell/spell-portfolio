@@ -28,6 +28,7 @@ const Text = styled.div`
     font-size: 10px;
     letter-spacing: 5px;
     margin-left: 10px;
+    line-height: 2;
 
     span {
         background-color: yellow;
@@ -57,7 +58,7 @@ class Narrative extends Component {
                             I approach each project with<br/>
                             in depth planning. Visually<br />
                             mapping out the solution using<br />
-                            tools such as <span>Draw IO</span><br />
+                            tools such as <span>Draw IO</span> ...<br /><br />
                             Thank you for visiting! <br />
                         </p>
                     </Text>
