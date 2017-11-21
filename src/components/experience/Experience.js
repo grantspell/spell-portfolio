@@ -22,7 +22,7 @@ const Project = styled.div`
     margin: 20px;
 `
 const ProjectDisplay = styled.div`
-    background-image: url(https://i.imgur.com/AnGTD8V.png);
+    // background-image: url(https://i.imgur.com/AnGTD8V.png);
     background-size: cover;
     border: 5px double white;
     padding: 5px;
@@ -37,6 +37,11 @@ const ProjectDisplay = styled.div`
         margin: 8px;
         background-color: yellow;
     }
+    p {
+        font-family: 'Roboto Mono', monospace;
+        font-size: 9px;
+        color: white;
+    }
 `
 const ProjectLinks = styled.div`
     display: flex;
@@ -50,6 +55,8 @@ const ProjectLinks = styled.div`
         margin: 11px;
         letter-spacing: 7px;
         text-align: center;
+        padding: 5px;
+        background-color: blue;
     }
 `
 
@@ -68,7 +75,7 @@ class Experience extends Component {
                     </ProjectDisplay>
                     <ProjectLinks>
                         <a href="https://github.com/grantspell/project-four">GitHub</a>
-                        <a href="https://project-four.herokuapp.com/">Heroku</a>
+                        <a href="https://project-four.herokuapp.com/">LIVE</a>
                     </ProjectLinks>
                 </Project>
 
@@ -79,7 +86,7 @@ class Experience extends Component {
                     </ProjectDisplay>
                     <ProjectLinks>
                         <a href="https://github.com/grantspell/project-iii">GitHub</a>
-                        <a href="https://project-iii.herokuapp.com/">Heroku</a>
+                        <a href="https://project-iii.herokuapp.com/">LIVE</a>
                     </ProjectLinks>
                 </Project>
 
@@ -90,7 +97,7 @@ class Experience extends Component {
                     </ProjectDisplay>
                     <ProjectLinks>
                         <a href="https://github.com/grantspell/project_two">GitHub</a>
-                        <a href="https://agile-caverns-43314.herokuapp.com/">Heroku</a>
+                        <a href="https://agile-caverns-43314.herokuapp.com/">LIVE</a>
                     </ProjectLinks>
                 </Project>
 
@@ -101,7 +108,7 @@ class Experience extends Component {
                     </ProjectDisplay>
                     <ProjectLinks>
                         <a href="https://github.com/grantspell/project_one">GitHub</a>
-                        <a href="http://designer-beaver-25308.bitballoon.com/">Heroku</a>
+                        <a href="http://designer-beaver-25308.bitballoon.com/">LIVE</a>
                     </ProjectLinks>
                 </Project>
 

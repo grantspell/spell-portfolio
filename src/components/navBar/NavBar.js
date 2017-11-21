@@ -44,8 +44,8 @@ const Buttons = styled.div`
         font-size: 9px;
         color: white;
         text-decoration: none;
-        margin: 11px;
-        letter-spacing: 7px;
+        margin: 10px;
+        letter-spacing: 5px;
         text-align: center;
     }
 `
