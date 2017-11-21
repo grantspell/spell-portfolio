@@ -28,6 +28,12 @@ const Text = styled.div`
     font-size: 10px;
     letter-spacing: 5px;
     margin-left: 10px;
+
+    span {
+        background-color: yellow;
+        color: black;
+        padding: 5px;
+    }
 `
 
 class Narrative extends Component {
@@ -40,7 +46,7 @@ class Narrative extends Component {
                     <Text>
                         <p>
                             Hello, World! <br /><br />
-                            My name is Grant Spell. <br /><br />
+                            My name is <span>Grant Spell</span>. <br /><br />
                             Thank you for visiting! <br />
                         </p>
                     </Text>
