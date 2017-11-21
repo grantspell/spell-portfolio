@@ -11,7 +11,7 @@ const NarrativeWrapper = styled.div`
     justify-content: space-around;
     align-items: center;
     width: 100vw;
-    height: 100vh;
+    height: 60vh;
 `
 const Content = styled.div`
     margin-top: -50px;
@@ -39,9 +39,10 @@ const Text = styled.div`
 class Narrative extends Component {
     render() {
         return (
-            <NarrativeWrapper>
-                <NavBar />
+            <div>
+            <NavBar />
 
+            <NarrativeWrapper>
                 <Content>
                     <Text>
                         <p>
@@ -51,8 +52,8 @@ class Narrative extends Component {
                         </p>
                     </Text>
                 </Content>
-                
             </NarrativeWrapper>
+            </div>
         );
     }
 }
