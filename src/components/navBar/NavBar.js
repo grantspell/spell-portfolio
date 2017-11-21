@@ -23,7 +23,7 @@ background-image: url(https://i.imgur.com/9fxpuyI.png);
 background-size: cover;
 
 h1 {
-    padding-top: 170px;
+    padding-top: 180px;
     color: white;
     text-shadow: 2px 2px 0px blue, -2px -2px 0px red;
     font-family: 'Rozha One', serif;
