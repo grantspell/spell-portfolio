@@ -19,16 +19,16 @@ const Project = styled.div`
     height: auto;
     display: flex;
     flex-direction: column;
-    margin: 20px;
+    margin: 15px;
 `
 const ProjectDisplay = styled.div`
-    // background-image: url(https://i.imgur.com/AnGTD8V.png);
-    background-size: cover;
+    //background-image: url(https://i.imgur.com/AnGTD8V.png);
+    //background-size: cover;
     border: 5px double white;
     padding: 5px;
     text-align: center;
-    width: 300px;
-    height: 300px;
+    width: 250px;
+    height: 250px;
 
     h3 {
         font-family: 'Roboto Mono', monospace;
@@ -58,6 +58,7 @@ const ProjectLinks = styled.div`
         text-align: center;
         padding: 5px;
         background-color: blue;
+        box-shadow: -2px 2px 0px red;
     }
 `
 
