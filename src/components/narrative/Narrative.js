@@ -15,12 +15,19 @@ const NarrativeWrapper = styled.div`
 `
 const Content = styled.div`
     margin-top: -50px;
-    width: 100vw;
+    width: 700px;
     height: 50vh;
     background-image: url(https://i.imgur.com/100gwAO.png);
     background-size: 700px;
     background-repeat: no-repeat;
     background-position: center;
+`
+const Text = styled.div`
+    color: white;
+    font-family: 'Roboto Mono', monospace;
+    font-size: 10px;
+    letter-spacing: 5px;
+    margin-left: 10px;
 `
 
 class Narrative extends Component {
@@ -30,9 +37,13 @@ class Narrative extends Component {
                 <NavBar />
 
                 <Content>
-                    <p>
-                        Thank you for visiting!
-                    </p>
+                    <Text>
+                        <p>
+                            Hello, World! <br /><br />
+                            My name is Grant Spell. <br /><br />
+                            Thank you for visiting! <br />
+                        </p>
+                    </Text>
                 </Content>
                 
             </NarrativeWrapper>
