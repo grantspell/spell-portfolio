@@ -31,8 +31,9 @@ const ProjectDisplay = styled.div`
     height: 300px;
 
     h3 {
-        font-family: 'Rozha One', serif;
-        font-size: 15px;
+        font-family: 'Roboto Mono', monospace;
+        font-size: 11px;
+        padding: 1px;
         letter-spacing: 1px;
         margin: 8px;
         background-color: yellow;
@@ -67,11 +68,10 @@ class Experience extends Component {
             <NavBar />
             <ProjectWrapper>
 
-
                 <Project>
                     <ProjectDisplay>
                         <h3>Project : Dilettante</h3>
-                        <p>This application is my first applicaiton.</p>
+                        <p>This application is my fourth applicaiton.</p>
                     </ProjectDisplay>
                     <ProjectLinks>
                         <a href="https://github.com/grantspell/project-four">GitHub</a>
@@ -82,7 +82,7 @@ class Experience extends Component {
                 <Project>
                     <ProjectDisplay>
                         <h3>Project : What(n.) to What(v.)</h3>
-                        <p>This application is my first applicaiton.</p>
+                        <p>This application is my third applicaiton.</p>
                     </ProjectDisplay>
                     <ProjectLinks>
                         <a href="https://github.com/grantspell/project-iii">GitHub</a>
@@ -93,7 +93,7 @@ class Experience extends Component {
                 <Project>
                     <ProjectDisplay>
                         <h3>Project : BMC</h3>
-                        <p>This application is my first applicaiton.</p>
+                        <p>This application is my second applicaiton.</p>
                     </ProjectDisplay>
                     <ProjectLinks>
                         <a href="https://github.com/grantspell/project_two">GitHub</a>
