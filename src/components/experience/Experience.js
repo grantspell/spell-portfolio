@@ -32,7 +32,7 @@ const ProjectDisplay = styled.div`
 
     h3 {
         font-family: 'Roboto Mono', monospace;
-        font-size: 11px;
+        font-size: 10px;
         padding: 1px;
         letter-spacing: 1px;
         margin: 8px;
