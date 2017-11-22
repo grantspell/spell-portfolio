@@ -62,6 +62,7 @@ class Home extends Component {
                     <p>FULL STACK WEB DEVELOPER</p>
                     <Links>
                         <Link to='/experience' className='aLink'>EXPERIENCE</Link>
+                        <Link to='/contact' className="aLink">CONTACT</Link>
                         <Link to='/narrative' className='aLink'>NARRATIVE</Link>                        
                     </Links>
                 </Content>
