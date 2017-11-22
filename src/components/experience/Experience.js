@@ -37,11 +37,13 @@ const ProjectDisplay = styled.div`
         letter-spacing: 1px;
         margin: 8px;
         background-color: yellow;
+        text-align: center;
     }
     p {
         font-family: 'Roboto Mono', monospace;
         font-size: 9px;
         color: white;
+        text-align: center;
     }
 `
 const ProjectLinks = styled.div`
