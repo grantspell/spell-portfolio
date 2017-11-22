@@ -45,8 +45,9 @@ const Links = styled.div`
         font-size: 17px;
         color: white;
         text-decoration: none;
-        margin: 11px;
-        letter-spacing: 7px;
+        margin: 5px;
+        letter-spacing: 10px;
+        line-height: 1.5;
         
         -webkit-animation: text-flicker-in-glow 4s linear both;
         animation: text-flicker-in-glow 4s linear both;
