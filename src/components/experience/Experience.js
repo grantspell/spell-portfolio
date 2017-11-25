@@ -111,7 +111,7 @@ class Experience extends Component {
                     </ProjectDisplay>
                     <ProjectLinks>
                         <a href="https://github.com/grantspell/project_one" target="_blank" >GitHub</a>
-                        <a href="http://designer-beaver-25308.bitballoon.com/" target="_blank" >LIVE</a>
+                        <a href="http://styx-hangman.bitballoon.com/" target="_blank" >LIVE</a>
                     </ProjectLinks>
                 </Project>
 
