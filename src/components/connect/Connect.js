@@ -7,6 +7,8 @@ import NavBar from '../navBar/NavBar'
 // STYLES
 const Wrapper = styled.div`
     display: flex;
+    flex-direction: column;
+    align-items: center;
     justify-content: space-around;
     width: 100vw;
     height: 50vh;
@@ -14,7 +16,17 @@ const Wrapper = styled.div`
     font-family: 'Roboto Mono', monospace;
     font-size: 10px;
     letter-spacing: 5px;
-    margin-top: -15px;
+`
+const EmailStyles = styled.div`
+    text-align: center;
+
+    h3 {
+        font-size: 10px;
+    }
+
+    a {
+        text-decoration:  none;
+    }
 `
 
 class Connect extends Component {
@@ -24,7 +36,16 @@ class Connect extends Component {
                 <NavBar />
                 
                 <Wrapper>
-                    <div>HERE WILL BE ALL OF MY LINKS</div>
+
+                    <div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="en_US" data-type="horizontal" data-theme="dark" data-vanity="grantspell">
+                    <a class="LI-simple-link" href='https://www.linkedin.com/in/grantspell?trk=profile-badge'>Grant Spell</a>
+                    </div>
+
+                    <EmailStyles>
+                        <h3>EMAIL ME</h3>
+                        <a href="mailto: spellgrant@gmail.com">SPELLGRANT@GMAIL.COM</a>
+                    </EmailStyles>
+                    
                 </Wrapper>
             </div>
         );
