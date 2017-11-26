@@ -73,6 +73,7 @@ class Experience extends Component {
 
                 <Project>
                     <ProjectDisplay>
+                        
                         <h3>Project : Dilettante</h3>
                         <p>
                             Dilettante is an art fusion application designed to allow users to create vision/mood boards that pair visual and audio art pieces. The user can also create an entry for each collection that can be used for research, self-expression or just for fun. <br/><br/>

@@ -28,6 +28,9 @@ const EmailStyles = styled.div`
         text-decoration:  none;
     }
 `
+const Resume = styled.div`
+
+`
 
 class Connect extends Component {
     render() {
@@ -45,6 +48,7 @@ class Connect extends Component {
                     </EmailStyles>
                     
                 </Wrapper>
+                <script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
             </div>
         );
     }
