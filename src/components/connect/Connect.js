@@ -37,9 +37,7 @@ class Connect extends Component {
                 
                 <Wrapper>
 
-                    <div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="en_US" data-type="horizontal" data-theme="dark" data-vanity="grantspell">
-                    <a class="LI-simple-link" href='https://www.linkedin.com/in/grantspell?trk=profile-badge'>Grant Spell</a>
-                    </div>
+                    <div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="en_US" data-type="horizontal" data-theme="dark" data-vanity="grantspell"><a class="LI-simple-link" href='https://www.linkedin.com/in/grantspell?trk=profile-badge'>Grant Spell</a></div>
 
                     <EmailStyles>
                         <h3>EMAIL ME</h3>
