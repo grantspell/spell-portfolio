@@ -74,7 +74,10 @@ class Experience extends Component {
                 <Project>
                     <ProjectDisplay>
                         <h3>Project : Dilettante</h3>
-                        <p>This application is my fourth applicaiton.</p>
+                        <p>
+                            Dilettante is an art fusion application designed to allow users to create vision/mood boards that pair visual and audio art pieces. The user can also create an entry for each collection that can be used for research, self-expression or just for fun. <br/><br/>
+                            Built primarily using React on Rails and PostgreSQL, this application has powerful functionality. Using additional tools such as iTunes Search API and Axios allowed me to incorporate large amounts of data without weighing down my server. <br/><br/>
+                        </p>
                     </ProjectDisplay>
                     <ProjectLinks>
                         <a href="https://github.com/grantspell/project-four" target="_blank" >GitHub</a>
