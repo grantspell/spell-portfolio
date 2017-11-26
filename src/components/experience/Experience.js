@@ -82,7 +82,7 @@ class Experience extends Component {
                     </ProjectLinks>
                 </Project>
 
-                <Project>
+                {/* <Project>
                     <ProjectDisplay>
                         <h3>Project : What(n.) to What(v.)</h3>
                         <p>This application is my third applicaiton.</p>
@@ -102,7 +102,7 @@ class Experience extends Component {
                         <a href="https://github.com/grantspell/project_two" target="_blank" >GitHub</a>
                         <a href="https://agile-caverns-43314.herokuapp.com/" target="_blank" >LIVE</a>
                     </ProjectLinks>
-                </Project>
+                </Project> */}
 
                 <Project>
                     <ProjectDisplay>
