@@ -73,7 +73,6 @@ class Experience extends Component {
 
                 <Project>
                     <ProjectDisplay>
-                        
                         <h3>Project : Dilettante</h3>
                         <p>
                             Dilettante is an art fusion application designed to allow users to create vision/mood boards that pair visual and audio art pieces. The user can also create an entry for each collection that can be used for research, self-expression or just for fun. <br/><br/>
@@ -114,7 +113,7 @@ class Experience extends Component {
                         <p>
                             This interactive hangman application was built using HTML, CSS and vanilla JavaScript. It is themed around the rock anthem 'Renegade' by Styx. <br/><br/>
                             Abiding by the simple rules of hangman, the player guesses, letter by letter, what the hidden word is for each round. All of the game's graphics were designed by hand and then illustrated using 'Affinity Photo', an iPad application. <br/><br/>
-                            The biggest struggles with this project were the logic and the hangman animation. I used several if statements to compare the player's guess to each letter in the hidden word chosen for the round. I used if statements for the animation as well, telling the application to render certain images according to the player's wrong guesses.
+                            The biggest struggles with this project were the logic and the hangman animation. I used several if statements to compare the player's guess to each letter in the hidden word chosen for the round. I used if statements for the animation as well, telling the application to render certain images according to the player's incorrect guesses.
                         </p>
                     </ProjectDisplay>
                     <ProjectLinks>
