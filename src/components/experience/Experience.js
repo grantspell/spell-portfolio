@@ -107,7 +107,11 @@ class Experience extends Component {
                 <Project>
                     <ProjectDisplay>
                         <h3>Project : Hangman</h3>
-                        <p>This application is my first applicaiton.</p>
+                        <p>
+                            This interactive hangman application was built using HTML, CSS and vanilla JavaScript. It is themed around the rock anthem 'Renegade' by Styx. <br/><br/>
+                            Abiding by the simple rules of hangman, the player guesses, letter by letter, what the hidden word is for each round. All of the game's graphics were designed by hand and then illustrated using 'Affinity Photo', an iPad application. <br/><br/>
+                            The biggest struggles with this project were the logic and the hangman animation. I used several if statements to compare the player's guess to each letter in the hidden word chosen for the round. I used if statements for the animation as well, telling the application to render certain images according to the player's wrong guesses.
+                        </p>
                     </ProjectDisplay>
                     <ProjectLinks>
                         <a href="https://github.com/grantspell/project_one" target="_blank" >GitHub</a>
