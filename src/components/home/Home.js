@@ -39,7 +39,12 @@ const Content = styled.div`
     }  
 
     @media (max-width: 768px) {
+        width: 85%;
+        height: 50vh;
 
+        p {
+            letter-spacing: 5.7px;
+        }
     }
 `
 const Header = styled.div`
@@ -72,6 +77,12 @@ const Links = styled.div`
     }
     .na {
         letter-spacing: 19.1px;
+    }
+
+    @media (max-width: 768px) {
+        .aLink {
+            margin-top: 0px;
+        }
     }
 `
 
