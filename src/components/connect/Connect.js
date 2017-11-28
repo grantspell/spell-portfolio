@@ -55,7 +55,7 @@ const LinkedIn = styled.div`
         background-color: white;
         padding: 5px;
         border: 5px double black;
-    }
+    } 
 `
 const Text = styled.div`
     color: black;
