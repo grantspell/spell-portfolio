@@ -22,8 +22,16 @@ const EmailStyles = styled.div`
 
     h3 {
         font-size: 10px;
+        color: black;
+        background: yellow;
     }
 
+    .linkedIn {
+        font-size: 10px;
+        color: black;
+        background: yellow;
+    }
+    
     a {
         text-decoration:  none;
     }
@@ -40,15 +48,16 @@ class Connect extends Component {
                 
                 <Wrapper>
 
-                    <div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="en_US" data-type="horizontal" data-theme="dark" data-vanity="grantspell"><a class="LI-simple-link" href='https://www.linkedin.com/in/grantspell?trk=profile-badge'>Grant Spell | LinkedIn</a></div>
-
                     <EmailStyles>
+                        <h3>LINKED IN</h3>
+                        <a href="https://www.linkedin.com/in/grantspell/">GRANT SPELL | PROFILE</a>
+                        <br/><br />
                         <h3>EMAIL ME</h3>
                         <a href="mailto: spellgrant@gmail.com">SPELLGRANT@GMAIL.COM</a>
                     </EmailStyles>
                     
                 </Wrapper>
-                
+
             </div>
         );
     }
