@@ -10,7 +10,7 @@ const ProjectWrapper = styled.div`
     width: 100vw;
     height: auto;
     display: flex;
-    justify-content: space-around;
+    justify-content: center;
     flex-wrap: wrap;
     align-content: center;
 `
@@ -27,12 +27,12 @@ const ProjectDisplay = styled.div`
     border: 5px double white;
     padding: 5px;
     text-align: center;
-    width: 250px;
-    height: 250px;
+    width: 350px;
+    height: 350px;
 
     h3 {
         font-family: 'Roboto Mono', monospace;
-        font-size: 10px;
+        font-size: 12px;
         padding: 1px;
         letter-spacing: 1px;
         margin: 8px;
@@ -41,8 +41,10 @@ const ProjectDisplay = styled.div`
     }
     p {
         font-family: 'Roboto Mono', monospace;
-        font-size: 9px;
+        font-size: 12px;
         color: white;
+        letter-spacing: 1px;
+        line-height: 1.05;
         text-align: center;
     }
 `

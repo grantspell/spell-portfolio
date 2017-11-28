@@ -16,8 +16,8 @@ const NavWrapper = styled.div`
 const Content = styled.div`
 margin: 10px;
 text-align: center;
-width: 300px;
-height: 250px;
+width: 350px;
+height: 300px;
 border: double 5px white;
 background-image: url(https://i.imgur.com/9fxpuyI.png);
 background-size: cover;

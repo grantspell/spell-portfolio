@@ -14,7 +14,6 @@ const NarrativeWrapper = styled.div`
     height: 60vh;
 `
 const Content = styled.div`
-    margin-top: -50px;
     width: 700px;
     height: 50vh;
     background-image: url(https://i.imgur.com/100gwAO.png);
