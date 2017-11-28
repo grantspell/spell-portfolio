@@ -7,27 +7,24 @@ import NavBar from '../navBar/NavBar'
 // STYLES
 const NarrativeWrapper = styled.div`
     display: flex;
-    flex-direction: column;
+    flex-direction: row;
     justify-content: space-around;
     align-items: center;
-    width: 100vw;
     height: 60vh;
+    width: 100vw;
 `
 const Content = styled.div`
-    width: 700px;
-    height: 50vh;
-    background-image: url(https://i.imgur.com/100gwAO.png);
-    background-size: 700px;
-    background-repeat: no-repeat;
-    background-position: center;
+    width: 100%;
+    height: 100%;
 `
 const Text = styled.div`
     color: white;
     font-family: 'Roboto Mono', monospace;
-    font-size: 10px;
-    letter-spacing: 5px;
+    font-size: 11px;
+    letter-spacing: 3px;
     margin-left: 10px;
     line-height: 2;
+    text-align: center;
 
     span {
         background-color: yellow;
@@ -48,16 +45,18 @@ class Narrative extends Component {
                         <p>
                             Hello, World! <br /><br />
                             My name is <span>Grant Spell</span>. <br /><br />
-                            My goal is to create polished and<br />
-                            responsive web applications <br/>
-                            through continuously improving my<br />
-                            skillset and staying up to date<br />
-                            on technologies, methods and <br />
+                            My goal is to create visually captivating and <br/>
+                            comprehensive web applications
+                            through continuously improving my
+                            skillset and staying up to<br/> 
+                            date on technologies, methods and
                             practices in the tech industry.<br /><br />
-                            I approach each project with<br/>
-                            in depth planning. Visually<br />
-                            mapping out the solution using<br />
-                            tools such as <span>Draw IO</span> ...<br /><br />
+                            I approach each project with
+                            in depth planning utilizing planning tools such as wireframes, <br/>
+                            entity relationship diagrams [ERD], user stories, data modeling, <br/>
+                            and lots of white-boarding to get down visual concepts. <br /><br />
+                            I recently graduated from General Assembly's 
+                            <br /><br />
                             Thank you for visiting! <br />
                         </p>
                     </Text>
