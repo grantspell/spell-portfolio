@@ -10,6 +10,11 @@ const Wrapper = styled.div`
     flex-direction: column;
     justify-content: space-around;
     align-items: center;
+
+    @media (max-width: 768px) {
+        height: 100vh;
+        width: 100vw;
+    }
     `
 const Content = styled.div`
     color: white;
@@ -48,7 +53,7 @@ const Content = styled.div`
     }
 `
 const Header = styled.div`
-    margin: -121.8px;
+    margin: -135.5px;
 `
 const Links = styled.div`
     display: flex;
