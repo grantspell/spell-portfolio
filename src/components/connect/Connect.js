@@ -19,6 +19,7 @@ const Wrapper = styled.div`
 `
 const EmailStyles = styled.div`
     text-align: center;
+    
 
     h3 {
         font-size: 10px;
