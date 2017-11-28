@@ -41,11 +41,11 @@ const Buttons = styled.div`
 
     .Button {
         font-family: 'Roboto Mono', monospace;
-        font-size: 9px;
+        font-size: 11px;
         color: white;
         text-decoration: none;
-        margin: 10px;
-        letter-spacing: 5px;
+        margin: 9px;
+        letter-spacing: 5.8px;
         text-align: center;
     }
 `
