@@ -36,6 +36,12 @@ const EmailStyles = styled.div`
     a {
         text-decoration:  none;
     }
+
+    .eButton {
+        background-color: white;
+        padding: 5px;
+        border: 5px double black;
+    }
 `
 const LinkedIn = styled.div`
     height: 200px;
@@ -92,7 +98,8 @@ class Connect extends Component {
                         </LinkedIn>
                         <br/><br />
                         <h3>EMAIL ME</h3>
-                        <a href="mailto: spellgrant@gmail.com">SPELLGRANT@GMAIL.COM</a>
+                        <br/>
+                        <a href="mailto: spellgrant@gmail.com" className="eButton">SPELLGRANT@GMAIL.COM</a>
                     </EmailStyles>
                     
                 </Wrapper>
