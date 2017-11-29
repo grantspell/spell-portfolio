@@ -47,17 +47,16 @@ class Narrative extends Component {
                             My name is <span>Grant Spell</span>. <br /><br />
                             My goal is to create visually captivating and <br/>
                             comprehensive web applications
-                            through continuously improving my
-                            skillset and staying up to<br/> 
-                            date on technologies, methods and
+                            through continuously<br/> improving
+                            my skillset and staying up to 
+                            date on technologies, methods<br/> and
                             practices in the tech industry.<br /><br />
                             I approach each project with
-                            in depth planning utilizing planning tools such as wireframes, <br/>
-                            entity relationship diagrams [ERD], user stories, data modeling, <br/>
+                            in depth planning utilizing planning tools<br/> such as wireframes,
+                            entity relationship diagrams [ERD], user stories,<br/> data modeling,
                             and lots of white-boarding to get down visual concepts. <br /><br />
-                            I recently graduated from General Assembly's 
-                            <br /><br />
-                            Thank you for visiting! <br />
+            
+                            Thank you for visiting and feel free to reach out for more information!
                         </p>
                     </Text>
                 </Content>
