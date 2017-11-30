@@ -44,18 +44,25 @@ class Narrative extends Component {
                     <Text>
                         <p>
                             Hello, World! <br /><br />
-                            My name is <span>Grant Spell</span>. <br /><br />
-                            My goal is to create visually captivating and <br/>
+                            My name is <span>Grant Spell</span>.
+                            <br />
+                            <br />
+                            My goal is to create visually captivating and
                             comprehensive web applications
-                            through continuously<br/> improving
+                            through continuously improving
                             my skillset and staying up to 
-                            date on technologies, methods<br/> and
-                            practices in the tech industry.<br /><br />
+                            date on technologies, methods and
+                            practices in the tech industry.
+                            <br />
+                            <br />
                             I approach each project with
-                            in depth planning utilizing planning tools<br/> such as wireframes,
-                            entity relationship diagrams [ERD], user stories,<br/> data modeling,
-                            and lots of white-boarding to get down visual concepts. <br /><br />
-            
+                            in depth planning utilizing planning tools such as wireframes,
+                            entity relationship diagrams [ERD], user stories, data modeling,
+                            and lots of white-boarding to get down visual concepts.
+                            Agile orientented meaning you can expect early and frequent releases
+                            of the application and plenty of room for collaboration on your project.
+                            <br />
+                            <br />
                             Thank you for visiting and feel free to reach out for more information!
                         </p>
                     </Text>
