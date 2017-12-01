@@ -24,7 +24,7 @@ background-size: cover;
 
 h1 {
     padding-top: 225px;
-    color: white;
+    color: black;
     text-shadow: 2px 2px 0px blue, -2px -2px 0px red;
     font-family: 'Rozha One', serif;
     font-size: 40px;

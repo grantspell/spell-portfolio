@@ -34,13 +34,13 @@ const Content = styled.div`
         font-family: 'Rozha One', serif;
         font-size: 40px;
         letter-spacing: 1px;
-        margin: 8px;
+        margin-top: 21px;
     }
     p {
         font-family: 'Roboto Mono', monospace;
         font-size: 10px;
         letter-spacing: 5.5px;
-        margin-top: -15px;
+        margin-top: -30px;
     }  
 
     @media (max-width: 768px) {

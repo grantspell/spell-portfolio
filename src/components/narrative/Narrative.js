@@ -82,6 +82,7 @@ class Narrative extends Component {
                             <br />
                             <br />
                             Thank you for visiting and feel free to reach out for more information!
+                            <br />
                         </p>
                     </Text>
                 </Content>

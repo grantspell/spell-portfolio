@@ -11,7 +11,7 @@ const Wrapper = styled.div`
     align-items: center;
     justify-content: space-around;
     width: 100vw;
-    height: 40vh;
+    height: 60vh;
     color: white;
     font-family: 'Roboto Mono', monospace;
     font-size: 10px;
@@ -82,7 +82,7 @@ class Connect extends Component {
             <div>
                 <NavBar />
                 
-                <Wrapper>
+                {/* <Wrapper> */}
 
                     <EmailStyles>
                         <h3>LINKED IN</h3>
@@ -102,7 +102,7 @@ class Connect extends Component {
                         <a href="mailto: spellgrant@gmail.com" className="eButton">SPELLGRANT@GMAIL.COM</a>
                     </EmailStyles>
                     
-                </Wrapper>
+                {/* </Wrapper> */}
 
             </div>
         );
