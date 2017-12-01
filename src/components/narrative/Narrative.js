@@ -7,14 +7,14 @@ import NavBar from '../navBar/NavBar'
 // STYLES
 const NarrativeWrapper = styled.div`
     display: flex;
-    flex-direction: row;
+    flex-direction: column;
     justify-content: space-around;
     align-items: center;
     height: 60vh;
     width: 100vw;
 `
 const Content = styled.div`
-    width: 100%;
+    width: 75%;
     height: 100%;
 `
 const Text = styled.div`
